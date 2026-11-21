@@ -39,3 +39,7 @@ a {
 a:hover {
   color: #123d32;
 }
+
+.site-title {
+  font-family: Georgia, serif;
+}
