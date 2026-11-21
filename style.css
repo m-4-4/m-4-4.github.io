@@ -41,5 +41,6 @@ a:hover {
 }
 
 .site-title {
-  font-family: Georgia, serif;
+  font-family: "CMU Sans Serif", sans-serif;
+  font-weight: 500;
 }
