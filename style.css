@@ -1,0 +1,41 @@
+body {
+  max-width: 44rem;
+  margin: 0 auto;
+  padding: 3rem 1.25rem 5rem;
+
+  background-color: #fafbf9;
+  color: #292e2b;
+  font-family: -apple-system, BlinkMacSystemFont, "Hiragino Sans",
+               "Yu Gothic", Meiryo, sans-serif;
+  line-height: 1.8;
+}
+
+
+h1 {
+  margin: 0 0 1.25rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid #a8d9c5;
+  font-family: Georgia, "Hiragino Mincho ProN", "Yu Mincho", serif;
+  font-size: 2rem;
+  line-height: 1.3;
+}
+
+
+h2 {
+  margin: 2rem 0 0.5rem;
+  font-size: 1.25rem;
+}
+
+p {
+  margin: 0.75rem 0;
+}
+
+
+a {
+  color: #216653;
+  text-underline-offset: 0.2em;
+}
+
+a:hover {
+  color: #123d32;
+}
